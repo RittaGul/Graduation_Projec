@@ -1,16 +1,6 @@
 # graduation_project
 
 A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![merge_from_ofoct](https://user-images.githubusercontent.com/82938450/206380107-59743672-ac2d-4ef3-8fc7-06abf2d6697c.jpg)
+![merge_from_ofoct (1)](https://user-images.githubusercontent.com/82938450/206380122-75de5483-6812-4beb-a2c7-cf29ab1fcb1c.jpg)
+![merge_from_ofoct (2)](https://user-images.githubusercontent.com/82938450/206380129-48a09db5-c0f2-491d-8daa-7f0b6862090f.jpg)
