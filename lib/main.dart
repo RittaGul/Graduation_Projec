@@ -1,12 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:get/route_manager.dart';
 import 'package:graduation_project/controllers/home/getPagesScreens_Controller.dart';
 import 'package:graduation_project/controllers/start/onBoarding_Controller1.dart';
 import 'package:graduation_project/core/constant/GetPages.dart';
 import 'package:graduation_project/core/constant/routes.dart';
 import 'package:graduation_project/core/localization/myLocale.dart';
 import 'package:graduation_project/core/theme/Themes.dart';
-import 'package:graduation_project/views/screen/start/onboarding_page.dart';
 import 'package:get/get.dart';
 
 void main() {
